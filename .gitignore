@@ -1,3 +1,6 @@
+
+with_tourism_key_word
+
 # Logs
 logs
 *.log
@@ -102,3 +105,4 @@ dist
 
 # TernJS port file
 .tern-port
+
